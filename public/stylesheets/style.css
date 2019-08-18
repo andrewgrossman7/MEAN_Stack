@@ -1,0 +1,9 @@
+#expand-box {
+width: 100%;
+padding: 0;
+margin: 7px 0 0 0;}
+
+#expand-box-header {
+margin: 0;
+padding: 0 0 3px 2px;
+overflow: auto;}
